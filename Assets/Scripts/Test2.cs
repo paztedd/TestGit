@@ -6,7 +6,7 @@ public class Test2 : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        Debug.Log("Sphere");
+        Debug.Log("Sphere 3");
 	}
 	
 	// Update is called once per frame
